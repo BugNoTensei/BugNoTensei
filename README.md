@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm New</h1>
 <h3 align="center">ตอนนี้ผมกำลัง ฝึกทำเว็บอยู่ละ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newkab122&label=Profile%20views&color=0e75b6&style=flat" alt="newkab122" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Newkab122&color=blueviolet&style=plastice&abbreviated=true" alt="newkab122" /> </p>
 
 - 🌱 I’m currently learning **javascript,HTML,CSS,Python**
 
