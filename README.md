@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm New</h1>
 <h3 align="center">ตอนนี้ผมกำลัง ฝึกทำเว็บอยู่ละ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newkab122&label=Profile%20views&color=0e75b6&style=flat" alt="newkab122" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newkab122" alt="newkab122" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -16,8 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newkab122&show_icons=true&locale=en" alt="newkab122" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newkab122&" alt="newkab122" /></p>
-<!--
 **Newkab122/Newkab122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
