@@ -16,6 +16,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BugNoTensei&show_icons=true&locale=en&layout=compact&theme=react" alt="BugNoTensei" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BugNoTensei&show_icons=true&locale=en&layout=compact&theme=react&t=1682928482" alt="BugNoTensei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BugNoTensei&show_icons=true&locale=en&theme=react&hide=contribs,prs" alt="BugNoTensei" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BugNoTensei&show_icons=true&locale=en&theme=react&hide=contribs,prs&t=1682928483" alt="BugNoTensei" /></p>
