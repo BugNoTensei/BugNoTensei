@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://rudyalyanew-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react&hide=prs" alt="bugnotensei" /></p>
 
-<p><img align="center" src="https://readme-streak-stats-a2y8behff-bugnotenseis-projects.vercel.app/?user=BugNoTensei&theme=react" alt="bugnotensei" /></p>
+<p><img align="center" src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react" alt="bugnotensei" /></p>
