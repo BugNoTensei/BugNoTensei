@@ -18,8 +18,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react" alt="bugnotensei" /></p>
+<p><img align="left" src="https://rudyalyanew-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react" alt="bugnotensei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react&hide=prs" alt="bugnotensei" /></p>
+<p>&nbsp;<img align="center" src="https://rudyalyanew-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react&hide=prs" alt="bugnotensei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugnotensei&theme=react" alt="bugnotensei" /></p>
+<p><img align="center" src="https://readme-streak-stats-a2y8behff-bugnotenseis-projects.vercel.app/?user=BugNoTensei&theme=react" alt="bugnotensei" /></p>
