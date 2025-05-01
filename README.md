@@ -18,8 +18,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://alyastat-redmi-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs&cache_seconds=60" alt="bugnotensei" /></p>
+<p><img align="left" src="https://alyastat-redmi-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" /></p>
 
-<p>&nbsp;<img align="center" src="https://alyastat-redmi-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react&cache_seconds=60" alt="bugnotensei" /></p>
+<p>&nbsp;<img align="center" src="https://alyastat-redmi-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="bugnotensei" /></p>
 
 <p><img align="center" src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react&cache_seconds=60"/></p>
