@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://alyastat-redmi-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react&cache_seconds=1" alt="bugnotensei" /></p>
 
-<p><img align="center" src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react&cache_seconds=1"/></p>
+<p><img align="center" src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react&cache_seconds=60"/></p>
