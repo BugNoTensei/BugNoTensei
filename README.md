@@ -18,8 +18,25 @@
   </a>
 </p>
 
-<p><img align="left" src="https://alyastat-redmi-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" /></p>
+###
 
-<p><img align="center" src="https://alyastat-redmi-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="bugnotensei" /></p>
+<h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="center" src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react"/></p>
+###
+<div align="Center">
+<img src="https://alyastat-redmi-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" />
+</div>
+
+###
+
+<div align="center">
+<img src="https://alyastat-redmi-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="bugnotensei" />
+<img src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react"/>
+</div>
+
+###
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
