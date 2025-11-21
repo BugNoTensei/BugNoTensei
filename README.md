@@ -22,15 +22,10 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-<div align="Center">
-<img src="https://alyastat-redmi-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" />
-</div>
-
-###
 
 <div align="center">
 <img src="https://alyastat-redmi-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="bugnotensei" />
+<img src="https://alyastat-redmi-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" />
 <img src="https://alyastat-streak-statsjs.vercel.app?user=BugNoTensei&theme=react"/>
 </div>
 
