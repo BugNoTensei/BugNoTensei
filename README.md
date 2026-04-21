@@ -27,7 +27,8 @@
 <img src="https://wdgithub-readme-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="bugnotensei" />
 <img src="https://wdgithub-readme-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" />
 <img src="https://githubalya-readme-streak-stats.vercel.app?user=BugNoTensei&theme=react"/>
-</div>  
+  </div>  
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2057%20mins-blue?style=flat)
 
