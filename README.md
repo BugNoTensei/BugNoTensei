@@ -39,3 +39,6 @@
 <p align="left">
   <img src="https://readmefast.vercel.app/api?username=BugNoTensei&show_icons=true&theme=tokyonight" alt="Streak Stats" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
