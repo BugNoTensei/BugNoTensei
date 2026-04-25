@@ -1,53 +1,41 @@
+# Hi 👋, I'm PANUPAT CHAISONGKRAM
 
-<h1 align="center">Hi 👋, I'm New</h1>
-<h3 align="center">A Junior frontend developer from Thailand ✌️</h3>
+### Computer Science Student @ KMUTNB
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugnotensei&label=Profile%20views&color=0e75b6&style=flat" alt="bugnotensei" /> </p>
+---
 
-- 🌱 I’m currently learning **javascript,HTML,CSS,Python,React**
+- 🌱 I'm currently learning **.NET (C#), Backend Development, Scalable Systems, and Database Management.**
+- 💬 Ask me about **React, TypeScript, Tailwind CSS, Headless UI, and IT Support/Hardware Troubleshooting**
+- ⚡ Fun fact: **I explore open-world games like Wuthering Waves as much as I explore new code. 🎮**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/panupatnewkab12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panupatnewkab12" height="30" width="40" /></a>
+<a href="https://github.com/BugNoTensei" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BugNoTensei" height="30" width="40" /></a><a href="https://hackerrank.com/panupatnewkab12" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panupatnewkab12" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postman" />
   </a>
 </p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Statistics
 
+<p align="left">
+  <img src="https://wdgithub-readme-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Langs" />
+</p>
 
-<div align="center">
-<img src="https://wdgithub-readme-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="bugnotensei" />
-<img src="https://wdgithub-readme-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react&exclude_repo=alyastat-streak-statsjs" alt="bugnotensei" />
-<img src="https://githubalya-readme-streak-stats.vercel.app?user=BugNoTensei&theme=react"/>
-  </div>  
+<p align="left">
+  <img src="https://wdgithub-readme-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
+</p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2014%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       ██████████████████████░░░   87.35 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
+<p align="left">
+  <img src="https://githubalya-readme-streak-stats.vercel.app?user=BugNoTensei&theme=react" alt="Streak Stats" />
+</p>
