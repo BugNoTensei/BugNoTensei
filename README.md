@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readmefast.vercel.app/api/top-langs?username=BugNoTensei&layout=compact&show_icons=true&theme=tokyonight" alt="Top Langs" />
+  <img src="https://readmefast.vercel.app/api/top-langs?username=BugNoTensei&layout=compact&show_icons=true&exclude_repo=readmefast&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="left">
