@@ -43,21 +43,34 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2014%20mins-blue?style=flat)
 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Wednesday                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 86 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Friday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Saturday                 62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       ██████████████████████░░░   87.35 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               4 hrs 5 mins        ███████████████████░░░░░░   74.23 % 
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
