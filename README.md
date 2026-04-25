@@ -41,4 +41,24 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2014%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 15 mins       ██████████████████████░░░   87.35 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:waka-->
