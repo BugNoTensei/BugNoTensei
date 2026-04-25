@@ -1,4 +1,4 @@
-# Hi 👋, I'm PANUPAT CHAISONGKRAM
+# <h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm PANUPAT CHAISONGKRAM
 
 ### Computer Science Student @ KMUTNB
 
@@ -73,3 +73,9 @@ Mac                      5 hrs 31 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/output/github-contribution-grid-snake.svg">
+</picture>
