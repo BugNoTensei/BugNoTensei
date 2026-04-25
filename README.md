@@ -29,13 +29,13 @@
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://wdgithub-readme-stats.vercel.app/api/top-langs?username=bugnotensei&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Langs" />
+  <img src="https://readmefast.vercel.app/api/streak?username=BugNoTensei&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://wdgithub-readme-stats.vercel.app/api?username=bugnotensei&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
+  <img src="https://readmefast.vercel.app/api/top-langs?username=BugNoTensei&layout=compact&show_icons=true&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://githubalya-readme-streak-stats.vercel.app?user=BugNoTensei&theme=react" alt="Streak Stats" />
+  <img src="https://readmefast.vercel.app/api?username=BugNoTensei&show_icons=true&theme=tokyonight" alt="Streak Stats" />
 </p>
