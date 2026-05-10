@@ -1,7 +1,7 @@
 # <h1 align="left">Hi <img src="https://github.com/Sahil-me/Sahil-me/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I'm PANUPAT CHAISONGKRAM
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/dq6uCbYSFOEAAAAC/aemeath.gif" />
+  <img src="https://media1.tenor.com/m/dq6uCbYSFOEAAAAd/aemeath.gif" />
 </p>
 
 ### Computer Science Student @ KMUTNB
