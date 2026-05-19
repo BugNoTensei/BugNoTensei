@@ -45,6 +45,37 @@
 </p>
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Wednesday                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Thursday                 87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 34 mins       ██████████████████████░░░   87.39 % 
+CSS                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+Trae                     4 hrs 37 mins       ██████████████████░░░░░░░   72.68 % 
+VS Code                  1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+
+💻 Operating System: 
+Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
