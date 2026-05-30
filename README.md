@@ -45,6 +45,32 @@
 </p>
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  114 commits         ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Thursday                 87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Sunday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
