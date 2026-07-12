@@ -48,13 +48,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Wednesday                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Thursday                 157 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Saturday                 107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Thursday                 157 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Saturday                 114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Sunday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 
 
@@ -62,13 +62,17 @@ Sunday                   56 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 48 mins        ███████████████░░░░░░░░░░   58.57 % 
+CSS                      35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          3 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
