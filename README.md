@@ -48,13 +48,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 157 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Saturday                 114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Sunday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Wednesday                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 157 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Saturday                 114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Sunday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 
 
@@ -62,18 +62,18 @@ Sunday                   64 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.27 % 
-Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-CSS                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+TypeScript               2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
+Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+CSS                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 36 mins       █████████████████████████   99.55 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Antigravity IDE          5 hrs 13 mins       █████████████████████████   99.61 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
