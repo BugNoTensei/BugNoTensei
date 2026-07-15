@@ -62,10 +62,10 @@ Sunday                   64 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
-Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-CSS                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
+Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+CSS                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
@@ -73,7 +73,7 @@ Antigravity IDE          5 hrs 13 mins       ███████████�
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
