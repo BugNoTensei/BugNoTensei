@@ -45,6 +45,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2021%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -62,19 +64,41 @@ Sunday                   70 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 50 mins        ██████████████░░░░░░░░░░░   56.01 % 
-Other                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+TypeScript               1 hr 13 mins        ██████████████░░░░░░░░░░░   56.28 % 
+Other                    50 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 15 mins       █████████████████░░░░░░░░   68.91 % 
-Antigravity CLI          50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Antigravity IDE          1 hr 9 mins         █████████████░░░░░░░░░░░░   53.21 % 
+Antigravity CLI          50 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 56 mins (89.16%)
+
+✍️ 457 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 33 AI Prompts
+
+Gemini                   522 lines           █████████████████████████   99.62 % 
+Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 133 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
