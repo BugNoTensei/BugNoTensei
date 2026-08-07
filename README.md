@@ -45,34 +45,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Tuesday                  120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Thursday                 159 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Friday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Saturday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Sunday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 24 mins        █████████████████████░░░░   84.21 % 
-CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-
-🔥 Editors: 
-Antigravity IDE          1 hr 39 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
