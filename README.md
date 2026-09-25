@@ -62,14 +62,13 @@ Sunday                   67 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               23 mins             ███████████████████░░░░░░   74.01 % 
-CSS                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
