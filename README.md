@@ -48,13 +48,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Wednesday                175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Thursday                 188 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Saturday                 145 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Sunday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Monday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Thursday                 188 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Saturday                 146 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Sunday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 
 
@@ -62,13 +62,18 @@ Sunday                   67 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 25 mins        ████████████░░░░░░░░░░░░░   47.48 % 
+XAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             2 hrs 28 mins       ████████████████████░░░░░   81.83 % 
+Antigravity IDE          32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
