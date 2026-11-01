@@ -45,16 +45,16 @@
 </p>
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Tuesday                  192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Wednesday                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Thursday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Friday                   175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Saturday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Sunday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Monday                   135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Tuesday                  226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Saturday                 271 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Sunday                   124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 ```
 
 
@@ -62,18 +62,18 @@ Sunday                   105 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 6 mins        █████████████░░░░░░░░░░░░   52.71 % 
-Markdown                 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-XAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+C#                       3 hrs 39 mins       ████████████████░░░░░░░░░   62.47 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+XAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 16 mins       ███████████████████████░░   93.09 % 
-Antigravity IDE          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+VS Code                  5 hrs 19 mins       ███████████████████████░░   90.79 % 
+Antigravity IDE          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 
 💻 Operating System: 
-Mac                      7 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
