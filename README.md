@@ -48,13 +48,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Tuesday                  362 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Wednesday                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Friday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Saturday                 525 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Sunday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Monday                   225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Tuesday                  396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Wednesday                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Thursday                 321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Saturday                 617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 ```
 
 
@@ -62,17 +62,13 @@ Sunday                   396 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     11 mins             ██████████████████░░░░░░░   72.23 % 
-C#                       4 mins              ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+HTML                     11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          11 mins             ██████████████████░░░░░░░   72.23 % 
-VS Code                  4 mins              ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Antigravity IDE          11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 
