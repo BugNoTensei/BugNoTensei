@@ -48,13 +48,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Tuesday                  396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Thursday                 321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Saturday                 617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Monday                   310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Tuesday                  532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Wednesday                381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Thursday                 413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Friday                   496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 957 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Sunday                   746 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 
 
@@ -62,13 +62,13 @@ Sunday                   443 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
